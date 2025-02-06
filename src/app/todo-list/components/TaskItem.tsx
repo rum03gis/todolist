@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { format } from "date-fns";
-import { AlertCircle, Pencil, Check, X } from "lucide-react"; // Icons for editing
+import { AlertCircle, Pencil, Check, X } from "lucide-react" // Icons for editing
 
 type Task = {
   id: number;
